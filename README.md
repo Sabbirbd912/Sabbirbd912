@@ -3,7 +3,7 @@
 <!-- Banner Image -->
 <img src="https://pbs.twimg.com/profile_banners/768296188382629889/1785214329/1080x360" alt="Banner" width="100%" />
 
-# Sabbir Hossain
+# Sabbir Ahmed
 ### Full-Stack Web Developer | Next.js, Node.js Specialist
 
 📍 **Dhaka, Bangladesh** | ✉️ **sabbirbd912@gmail.com**
